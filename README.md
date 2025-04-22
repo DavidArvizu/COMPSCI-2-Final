@@ -6,3 +6,4 @@ You will get higher point amounts for the smaller enemies which is why they are 
 Once game ends a leaderboard will display, have yet to add the function to allow user to enter name
 To close window simply hit the x on the top left of the screen, game will not close on its own
 Do not forget to also close the console window that pops up, otherwise txt file will not update in further trials
+If program does not work it is most likely due to the SFML files not being uploaded propperly. Try only downloading the game files without SFML and then manually adding SFML into the project directories
