@@ -1,0 +1,15 @@
+﻿  Game.cpp
+D:\Users\David\source\repos\EggGame(COMPSCI-2)\External\SFML\include\SFML\System\Exception.hpp(41,47): warning C4275: non dll-interface class 'std::runtime_error' used as base for dll-interface class 'sf::Exception'
+  (compiling source file 'Game.cpp')
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\stdexcept(100,19):
+      see declaration of 'std::runtime_error'
+      D:\Users\David\source\repos\EggGame(COMPSCI-2)\External\SFML\include\SFML\System\Exception.hpp(41,23):
+      see declaration of 'sf::Exception'
+  
+D:\Users\David\source\repos\EggGame(COMPSCI-2)\EggGame(COMPSCI-2)\Game.cpp(150,42): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+D:\Users\David\source\repos\EggGame(COMPSCI-2)\EggGame(COMPSCI-2)\Game.cpp(150,42): warning C4244:         with
+D:\Users\David\source\repos\EggGame(COMPSCI-2)\EggGame(COMPSCI-2)\Game.cpp(150,42): warning C4244:         [
+D:\Users\David\source\repos\EggGame(COMPSCI-2)\EggGame(COMPSCI-2)\Game.cpp(150,42): warning C4244:             T=float
+D:\Users\David\source\repos\EggGame(COMPSCI-2)\EggGame(COMPSCI-2)\Game.cpp(150,42): warning C4244:         ]
+D:\Users\David\source\repos\EggGame(COMPSCI-2)\EggGame(COMPSCI-2)\Game.cpp(247,22): warning C4244: '+=': conversion from 'float' to 'unsigned int', possible loss of data
+  EggGame(COMPSCI-2).vcxproj -> D:\Users\David\source\repos\EggGame(COMPSCI-2)\x64\Debug\EggGame(COMPSCI-2).exe
